@@ -13,3 +13,4 @@ Developed an interactive Power BI dashboard analyzing survey data from 630 data 
 - Difficulty of breaking into the data field as reported by respondents.
 
 ## Dashboard
+![Screenshot 2024-09-30 173409](https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Power-BI/blob/main/Screenshot%202024-09-30%20173409.png)
