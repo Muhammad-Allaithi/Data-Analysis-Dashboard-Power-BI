@@ -22,3 +22,13 @@ Developed an interactive Power BI dashboard analyzing survey data from 630 data 
 
 ## Dashboard
 ![Screenshot 2024-09-30 173409](https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Power-BI/blob/main/Screenshot%202024-09-30%20173409.png)
+
+## Project Insights
+- Country Distribution.
+- Job Title and Salary.
+- Programming Preferences.
+- Happiness Metrics.
+- Difficulty in Entering Data Field.
+
+## Final Conclusion
+The survey reveals that most participants are from Canada, the U.S., India, and the U.K. Data Scientists have the highest average salary, and Python is the most popular programming language. Breaking into data is considered moderately challenging by most respondents. Satisfaction with work/life balance (5.74) and salary (4.27) is average.
