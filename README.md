@@ -13,6 +13,8 @@ Developed an interactive Power BI dashboard analyzing survey data from 630 data 
 - How satisfied are data professionals with their work/life balance and salary?
 - What is the count and average age of survey takers?
 
+- Dashboard Interaction <a href="https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Power-BI/blob/main/Screenshot%202024-09-30%20173409.png">View Dashboard</a>
+
 ## Process
 - Geographic distribution of survey participants.
 - Breakdown of favorite programming languages by job role.
