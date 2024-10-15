@@ -3,9 +3,11 @@
 Developed an interactive Power BI dashboard analyzing survey data from 630 data professionals. The dashboard provides insights into demographics, job roles, salary comparisons, favorite programming languages, and satisfaction levels regarding work-life balance and salary.
 
 ## Dataset Used
+
 - <a href="https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Power-BI/blob/main/Data%20Professional%20Survey%20Breakdown.pbix">Dataset</a>
 
 ## Questions (KPIs)
+
 - What are the most common countries of survey takers?
 - What is the average salary by job title?
 - What is the favorite programming language among data professionals?
@@ -16,6 +18,7 @@ Developed an interactive Power BI dashboard analyzing survey data from 630 data 
 - Dashboard Interaction <a href="https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Power-BI/blob/main/Screenshot%202024-09-30%20173409.png">View Dashboard</a>
 
 ## Process
+
 - Geographic distribution of survey participants.
 - Breakdown of favorite programming languages by job role.
 - Average salary comparison across different data roles.
@@ -23,9 +26,11 @@ Developed an interactive Power BI dashboard analyzing survey data from 630 data 
 - Difficulty of breaking into the data field as reported by respondents.
 
 ## Dashboard
+
 ![Screenshot 2024-09-30 173409](https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Power-BI/blob/main/Screenshot%202024-09-30%20173409.png)
 
 ## Project Insight
+
 - Country Distribution.
 - Job Title and Salary.
 - Programming Preferences.
@@ -33,4 +38,5 @@ Developed an interactive Power BI dashboard analyzing survey data from 630 data 
 - Difficulty in Entering Data Field.
 
 ## Final Conclusion
+
 The survey reveals that most participants are from Canada, the U.S., India, and the U.K. Data Scientists have the highest average salary, and Python is the most popular programming language. Breaking into data is considered moderately challenging by most respondents. Satisfaction with work/life balance (5.74) and salary (4.27) is average.
