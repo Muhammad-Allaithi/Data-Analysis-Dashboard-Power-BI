@@ -3,7 +3,7 @@
 Developed an interactive Power BI dashboard analyzing survey data from 630 data professionals. The dashboard provides insights into demographics, job roles, salary comparisons, favorite programming languages, and satisfaction levels regarding work-life balance and salary.
 
 ## Dataset Used
-- <a href="https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Power-BI/blob/main/Full%20Project%20In%20Power%20BI.pbix">Dataset</a>
+- <a href="https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Power-BI/blob/main/Data%20Professional%20Survey%20Breakdown.pbix">Dataset</a>
 
 ## Questions (KPIs)
 - What are the most common countries of survey takers?
