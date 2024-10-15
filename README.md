@@ -5,7 +5,7 @@ Developed an interactive Power BI dashboard analyzing survey data from 630 data 
 ## Dataset Used
 - <a href="https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Power-BI/blob/main/Full%20Project%20In%20Power%20BI.pbix">Dataset</a>
 
-## Questions
+## Questions (KPIs)
 - What are the most common countries of survey takers?
 - What is the average salary by job title?
 - What is the favorite programming language among data professionals?
